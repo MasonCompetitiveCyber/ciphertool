@@ -5,5 +5,7 @@ Ideally, if you feed it a string or txt file and it will recognize the type of c
 
 
 TO DO:
+
     -Add Bozocrack-type of decryption for MD5s
+
     -Add support for substitution cipher using quipqiup.com
